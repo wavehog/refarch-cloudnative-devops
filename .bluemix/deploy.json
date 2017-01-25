@@ -118,6 +118,7 @@
         "repo-branch",
         "deploy-org",
         "deploy-space",
+        "deploy-suffice",
         "apic-user",
         "apic-pass",
         "shared-secret",
@@ -132,6 +133,10 @@
             "type": "validator",
             "url": "/devops/setup/bm-helper/helper.html"
         },
+        {   "type: "text",
+            "readonly": false,
+            "title": "Deployment suffix (to make hostnames unique)",
+            "key": "deploy-suffix"
         {
             "type": "text",
             "readonly": false,
