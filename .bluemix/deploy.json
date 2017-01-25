@@ -133,7 +133,7 @@
             "type": "validator",
             "url": "/devops/setup/bm-helper/helper.html"
         },
-        {   "type: "text",
+        {   "type": "text",
             "readonly": false,
             "title": "Deployment suffix (to make hostnames unique)",
             "key": "deploy-suffix"
