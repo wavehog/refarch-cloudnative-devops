@@ -137,6 +137,7 @@
             "readonly": false,
             "title": "Deployment suffix (to make hostnames unique)",
             "key": "deploy-suffix"
+        },
         {
             "type": "text",
             "readonly": false,
